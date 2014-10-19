@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1413732178 source:d:\my program\other program\my_stack_lib\my_stack_lib.c
+	"My_Stack_Lib.h"
+
+1413732145 d:\my program\other program\my_stack_lib\my_stack_lib.h
+	<stdlib.h>
+
+1413729230 source:d:\my program\other program\simple_arithmetic_operations\simple_arithmetic_operations.c
+	"Simple_arithmetic_operations.h"
+
+1413725576 d:\my program\other program\simple_arithmetic_operations\simple_arithmetic_operations.h
+
+1413732178 source:d:\my program\ilab program files\calculator_stack_first_version\my_stack_lib.c
+	"My_Stack_Lib.h"
+
+1413732145 d:\my program\ilab program files\calculator_stack_first_version\my_stack_lib.h
+	<stdlib.h>
+
+1413729230 source:d:\my program\ilab program files\calculator_stack_first_version\simple_arithmetic_operations.c
+	"Simple_arithmetic_operations.h"
+
+1413725576 d:\my program\ilab program files\calculator_stack_first_version\simple_arithmetic_operations.h
+
+1413738294 source:d:\my program\ilab program files\calculator_stack_first_version\main.c
+	<stdio.h>
+	"My_Stack_Lib.h"
+	"Simple_arithmetic_operations.h"
+
+1413733608 d:\my program\ilab program files\calculator_stack_first_version\calculator_funcs.h
+
